@@ -1,0 +1,12 @@
+.header {
+    background-color: #424242; /* Темно-сірий фон */
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header h2 {
+    font-size: 2.5em;
+    margin: 0;
+  }
+  
